@@ -6,3 +6,5 @@ The code should:
 * Sketch the constellation diagram of the signals at the input and output of the AWGN channel.  
 * Plot the relation between the BER vs. Eb/No in dB where Eb is the bit energy and No is the noise spectral density.  
 * Plot the theoretical relation between BER and Eb/No in dB for your modulation scheme vs. the simulated one.
+
+* The project was done in Jan. 2022 * 
